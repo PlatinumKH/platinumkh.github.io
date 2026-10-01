@@ -1,1 +1,6 @@
-theme: jekyll-theme-time-machine
+title: Hakeem Kushoro | Senior Software Engineer
+description: React and TypeScript products, Java backend services, identity integration, performance engineering and production delivery.
+url: https://www.hkushoro.co.uk
+lang: en-GB
+exclude:
+  - README.md
