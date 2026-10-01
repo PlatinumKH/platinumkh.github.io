@@ -5,7 +5,7 @@
   const track = carousel.querySelector('.impact-track');
   const highlights = track.querySelector('.impact-strip');
   // Keep each tile's time on screen consistent as highlights are added
-  track.style.setProperty('--highlights-duration', `${highlights.children.length * 15}s`);
+  track.style.setProperty('--highlights-duration', `${highlights.children.length * 7.5}s`);
   const motionPreference = window.matchMedia('(prefers-reduced-motion: reduce)');
   let duplicate;
 

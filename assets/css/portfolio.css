@@ -408,7 +408,7 @@ body.portfolio {
 .impact-carousel[data-animated] .impact-track {
   display: flex;
   width: max-content;
-  animation: highlights-scroll var(--highlights-duration, 45s) linear infinite;
+  animation: highlights-scroll var(--highlights-duration, 22.5s) linear infinite;
 }
 .impact-carousel[data-animated] .impact-strip {
   display: flex;
